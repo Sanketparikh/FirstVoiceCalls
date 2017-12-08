@@ -1,7 +1,7 @@
 [
     {
         "action": "talk",
-        "voiceName": "Sanket",
-        "text": "Hi, this is Sanket. You are listening to a text-to-speech Call made with Nexmo's Voice API"
+        "voiceName": "Salli",
+        "text": "Hi, this is Salli. You are listening to a text-to-speech Call made with Nexmo's Voice API"
     }
 ]
