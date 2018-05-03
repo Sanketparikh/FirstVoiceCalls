@@ -1,7 +1,7 @@
 [
-    {
-        "action": "talk",
-        "voiceName": "Eric",
-        "text": "Hi, this is Vikas Lalkiya. I am senior .net developer"
+    "action": "transfer",
+    "destination": {
+      "type": "ncco",
+      "url": ["http://example.org/new-ncco.json"]
     }
 ]
