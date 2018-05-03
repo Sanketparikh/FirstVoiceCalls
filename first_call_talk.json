@@ -2,6 +2,6 @@
     "action": "transfer",
     "destination": {
       "type": "ncco",
-      "url": ["http://example.org/new-ncco.json"]
+      "url": ["https://gist.githubusercontent.com/Sanketparikh/0f65fe7f66aa690e3cb2756959ed04aa/raw/61bc072fb22706707985b86ab349ddba475034e0/shift.json"]
     }
 ]
